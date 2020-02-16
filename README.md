@@ -1,4 +1,4 @@
-# CSPattern Unity+C#完成的23种设计模式+MVC
+# CSPattern Unity+C#完成的23种设计模式+MVC（开发中）
 
 ## 介绍
 
